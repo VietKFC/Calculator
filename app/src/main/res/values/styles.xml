@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalculatorButton">
+        <item name="android:textSize">@dimen/sp_30</item>
+        <item name="minHeight">@dimen/dp_80</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="background">@drawable/button_circular_custom</item>
+    </style>
+</resources>

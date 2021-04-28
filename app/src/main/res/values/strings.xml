@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="text_dot">.</string>
+    <string name="text_equal">=</string>
+    <string name="text_negative">+/-</string>
+    <string name="text_division">/</string>
+    <string name="text_multiple">x</string>
+    <string name="text_subtract">-</string>
+    <string name="text_plus">+</string>
+    <string name="text_modulus">%</string>
+    <string name="text_delete">Del</string>
+    <string name="text_clear">AC</string>
+    <string name="text_zero">0</string>
+    <string name="text_one">1</string>
+    <string name="text_two">2</string>
+    <string name="text_three">3</string>
+    <string name="text_four">4</string>
+    <string name="text_five">5</string>
+    <string name="text_six">6</string>
+    <string name="text_seven">7</string>
+    <string name="text_eight">8</string>
+    <string name="text_nine">9</string>
+    <string name="text_result_format">%.2f</string>
 </resources>
